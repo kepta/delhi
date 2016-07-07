@@ -1,0 +1,16 @@
+{
+  "name": "delhi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kushan Joshi <0o3ko0@gmail.com> (http://kushanjoshi.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-react": "^5.2.2"
+  }
+}
