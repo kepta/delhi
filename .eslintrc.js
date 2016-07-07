@@ -3,5 +3,8 @@ module.exports = {
     "installedESLint": true,
     "plugins": [
         "react"
-    ]
+    ],
+    "rules": {
+      "no-underscore-dangle": 0,
+    }
 };
